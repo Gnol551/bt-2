@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    font-family: Verdana;
+}
+.header{
+    color: white;
+    background-color: rgb(81, 18, 139);
+    padding: 22px 60px 45px 240px;
+    font-size: 36px;
+    font-weight: bold;
+}
+.fon{
+    padding: 20px 60px 10px 240px;
+    font-size: 28px;
+    font-weight: bold;
+}
+.img{
+    padding: 10px 10px 20px 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin: 10px 370px 10px 200px;
+    border-image: 10px;
+    box-shadow: 3px 0px 0px 0px rgb(238, 237, 237);
+}
+.hn{
+    display: inline-block;
+    font-weight: bold;
+    color: rgb(91, 21, 156);
+    padding: 15px 0px 0px 0px;
+    margin-left: 10px;
+}
+.ple{
+    padding: 10px 0px 0px 0px; 
+    font-size: 15px;
+    color: gray;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+.but{
+    background-color: rgb(106, 29, 179);
+    color: white;
+    padding: 5px 8px;
+    margin-left: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.foot{
+    border-top: 2px solid rgb(141, 24, 141);
+    padding: 20px 20px 40px 240px;
+    font-size: 15px;
+}
